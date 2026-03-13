@@ -7,12 +7,13 @@ The analysis includes:
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Train–test split
-- Logistic Regression model
-- Random Forest model
+- Classification
 - Model evaluation using:
   - Confusion Matrix
   - ROC Curve
   - Classification metrics
+- Linear Regression
+- Polynomial Regression
 
 ## Tools
 Python, Pandas, Seaborn, Matplotlib, Scikit-learn
