@@ -1,2 +1,21 @@
-# diabetes-risk-prediction-ml
-Predicting diabetes risk using EDA and machine learning models in Python.
+# Diabetes Risk Prediction using Machine Learning
+
+This project explores diabetes risk factors using exploratory data analysis and machine learning models.
+
+The analysis includes:
+
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Train–test split
+- Logistic Regression model
+- Random Forest model
+- Model evaluation using:
+  - Confusion Matrix
+  - ROC Curve
+  - Classification metrics
+
+## Tools
+Python, Pandas, Seaborn, Matplotlib, Scikit-learn
+
+## Notebook
+`diabetes_risk_prediction_ml.ipynb`
